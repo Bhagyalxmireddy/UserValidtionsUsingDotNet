@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\UserValidationsProgram\bin\Debug\netcoreapp3.1\UserValidationsProgram.exe
+C:\Users\USER\source\repos\UserValidationsProgram\bin\Debug\netcoreapp3.1\UserValidationsProgram.deps.json
+C:\Users\USER\source\repos\UserValidationsProgram\bin\Debug\netcoreapp3.1\UserValidationsProgram.runtimeconfig.json
+C:\Users\USER\source\repos\UserValidationsProgram\bin\Debug\netcoreapp3.1\UserValidationsProgram.runtimeconfig.dev.json
+C:\Users\USER\source\repos\UserValidationsProgram\bin\Debug\netcoreapp3.1\UserValidationsProgram.dll
+C:\Users\USER\source\repos\UserValidationsProgram\bin\Debug\netcoreapp3.1\UserValidationsProgram.pdb
+C:\Users\USER\source\repos\UserValidationsProgram\obj\Debug\netcoreapp3.1\UserValidationsProgram.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\UserValidationsProgram\obj\Debug\netcoreapp3.1\UserValidationsProgram.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\UserValidationsProgram\obj\Debug\netcoreapp3.1\UserValidationsProgram.AssemblyInfo.cs
+C:\Users\USER\source\repos\UserValidationsProgram\obj\Debug\netcoreapp3.1\UserValidationsProgram.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\UserValidationsProgram\obj\Debug\netcoreapp3.1\UserValidationsProgram.dll
+C:\Users\USER\source\repos\UserValidationsProgram\obj\Debug\netcoreapp3.1\UserValidationsProgram.pdb
+C:\Users\USER\source\repos\UserValidationsProgram\obj\Debug\netcoreapp3.1\UserValidationsProgram.genruntimeconfig.cache
